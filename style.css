@@ -1,0 +1,41 @@
+img {
+    width: auto px;
+   height: 300px;
+}
+
+.photos-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+  
+  }
+
+table, th, td {
+    border: 1px black; 
+}
+
+body {
+  background-color: azure;
+  font-family: sans-serif;
+  text-align: center;
+  margin-right: 200px;
+  margin-left: 200px;
+  margin-bottom: 100px;
+}
+
+ol {
+  text-align: left;
+}
+
+.part1 {
+  background-color: bisque;
+}
+
+.part2{
+  background-color: antiquewhite;
+}
+
+.part3{
+  background-color: bisque;
+}
